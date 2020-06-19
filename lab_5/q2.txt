@@ -1,0 +1,15 @@
+1. z/(z-1)       - Constant signal
+
+2. (z^2)/(z-1)^2 - Increasing signal
+
+3. z/(z+1)       - Alternatively Increasing/decreasing signal
+
+4. (z^2)/(z+1)^2 - Alternatively increasing/decreasing signal
+ 
+5. z/(z-2)       - Increasing signal
+
+6. (z^2)/(z-2)^2 - Increasing signal
+
+7. z/(z+2)       - Alternatively increasing/decreasing signal
+
+8. (z^2)/(z+2)^2 - Alternatively increasing/decreasing signal
